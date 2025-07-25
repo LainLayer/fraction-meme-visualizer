@@ -14,7 +14,7 @@ The Y axis is treated as the top of the fraction, and the X axis as the bottom. 
 # Compile
 
 ```console
-$ cc -o main main.c src/glad.c-I./include -lX11 -lXrandr -lGL
+$ cc -o main main.c src/glad.c -I./include -lX11 -lXrandr -lGL
 ```
 
 # Run
