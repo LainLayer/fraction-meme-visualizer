@@ -31,4 +31,4 @@ pain in the ass. If you know a cool easy way to do it, PRs welcome.
 
 # License
 
-CC-BY public domain
+Public domain
